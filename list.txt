@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 8 Зевальов Артур
 25 Саволюк Данило Дмитрович
 32 Шульгін Даниїл
 =======
 6 Drobatii Kateryna
 >>>>>>> Drobatii-Kateryna
+=======
+4 Vlad Hordiienko
+>>>>>>> VladHordiienko
