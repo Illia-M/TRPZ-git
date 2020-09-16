@@ -94,7 +94,7 @@ x86/
 *.tmp_proj
 *_wpftmp.csproj
 *.log
-*.txt
+*.[Tt][Xx][Tt]
 *.cachefile
 [Aa][Rr][Mm]64/
 bld/
