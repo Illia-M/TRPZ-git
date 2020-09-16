@@ -1,4 +1,5 @@
-
+<<<<<<< HEAD
+4 Vlad Hordiienko
 5 Kateryna Gray
 8 Зевальов Артур
 25 Саволюк Данило
@@ -6,3 +7,6 @@
 30 Шапкин Влад
 31 Anastasia Shyptia
 32 Шульгін Даниїл
+=======
+
+>>>>>>> VladHordiienko
