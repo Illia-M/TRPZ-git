@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("26 - Ñóãàê Îëüãà");
+            Console.WriteLine("26 -Сугак Оля");
             Console.WriteLine("Topolskyi Artem " + 28);
             Console.WriteLine("23 Selezen");
 
@@ -31,6 +31,7 @@ namespace TRPZ2
             Console.WriteLine("8 Ivashina Alex");
             Console.WriteLine("9 - Klymov Andrii");
             Console.WriteLine("17 Liashenko Polina");
+            
 
 
         }
