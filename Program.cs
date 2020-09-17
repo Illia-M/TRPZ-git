@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("9");
+            Console.WriteLine("9 - Андрій Климов");
         }
     }
 }
