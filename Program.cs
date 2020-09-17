@@ -33,7 +33,6 @@ namespace TRPZ2
             Console.WriteLine("17 Liashenko Polina");
             
 
-
         }
     }
 }
