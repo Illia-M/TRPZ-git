@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
+            Console.WriteLine("26 - бѓуръ Юыќур");
 
             Console.WriteLine("12 Petro Kolodko");
 
