@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("IA-81 Hrytsyshyn Dmytro №07!");
         }
     }
 }
