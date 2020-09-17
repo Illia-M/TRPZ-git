@@ -10,8 +10,9 @@ namespace TRPZ2
 
             Console.WriteLine("12 Petro Kolodko");
 
-            Console.WriteLine("IA-81 Hrytsyshyn Dmytro №07!");
-            Console.WriteLine("� 5 Horovenko");
+            Console.WriteLine("IA-81 Hrytsyshyn Dmytro â„–07!");
+            Console.WriteLine("¹ 5 Horovenko");
+              Console.WriteLine(" 8 Ivashina");
 
 =======
              Console.WriteLine("Kolomietz Anna " + 13);
