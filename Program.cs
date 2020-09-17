@@ -7,6 +7,7 @@ namespace TRPZ2
         static void Main(string[] args)
         {
             Console.WriteLine("� 5 Horovenko");
+            Console.WriteLine("9 - Андрій Климов");
         }
     }
 }
