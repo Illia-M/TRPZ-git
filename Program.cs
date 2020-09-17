@@ -6,8 +6,9 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("¹ 5 Horovenko");
+            Console.WriteLine("ï¿½ 5 Horovenko");
             Console.WriteLine("9 - Klymov");
+            Console.WriteLine("Kolomiets Anya "+"13");
         }
     }
 }
