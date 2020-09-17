@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Dmutro Koval IA-81");
         }
     }
 }
