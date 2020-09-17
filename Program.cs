@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace TRPZ2
 {
@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sereda Yevgen, 24");
+            Console.WriteLine("Hello World!");
         }
     }
 }
