@@ -36,6 +36,7 @@ namespace TRPZ2
             Console.WriteLine("№3 Kate Babanina");
             Console.WriteLine("8 Ivashina Alex");
           Console.WriteLine("9 - Klymov Andrii");
+            Console.WriteLine("17 Liashenko Polina");
 
 <<<<<<< HEAD
 >>>>>>> 255887b34e4562730bf0604962403b941ef43f90
