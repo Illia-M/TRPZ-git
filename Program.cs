@@ -32,7 +32,6 @@ namespace TRPZ2
             Console.WriteLine("9 - Klymov Andrii");
             Console.WriteLine("17 Liashenko Polina");
 
-
         }
     }
 }
