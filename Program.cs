@@ -7,13 +7,28 @@ namespace TRPZ2
         static void Main(string[] args)
         {
             Console.WriteLine("26 - —Û„‡Í ŒÎ¸„‡");
+
+            Console.WriteLine("23 Selezen");
+
+
+            Console.WriteLine("06 Hrechyn Alina");
+
+            Console.WriteLine("Hello World!");
+
+
             Console.WriteLine("12 Petro Kolodko");
             Console.WriteLine("IA-81 Hrytsyshyn Dmytro ‚Ññ07!");
             Console.WriteLine("ÔøΩ 5 Horovenko");
+            Console.WriteLine("25 Syniepolskyi Serafym");
+            Console.WriteLine("ÔøΩ 5 Horovenko");
             Console.WriteLine("Kolomietz Anna " + 13);
             Console.WriteLine("Sereda Yevgen, 24");
+
             Console.WriteLine("‚Ññ3 Kate Babanina");
-            Console.WriteLine("9 - Klymov Andrii");
+            Console.WriteLine("8 Ivashina Alex");
+          Console.WriteLine("9 - Klymov Andrii");
+            Console.WriteLine("17 Liashenko Polina");
+
 
         }
     }
