@@ -38,7 +38,6 @@ namespace TRPZ2
         }
     }
 =======
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("№3 Kate Babanina");
+            
 >>>>>>> 370ca56101f656d916d5fe71dabcb0227697d004
 }
