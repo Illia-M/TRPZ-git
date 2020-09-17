@@ -7,6 +7,7 @@ namespace TRPZ2
         static void Main(string[] args)
         {
             Console.WriteLine("Number: 4, Egor Gorban");
+            Console.WriteLine("Hello World!");
 <<<<<<< HEAD
             Console.WriteLine("Кононенко Юлія, 14");
             Console.WriteLine("Topolskyi Artem " + 28);
