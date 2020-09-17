@@ -7,7 +7,9 @@ namespace TRPZ2
         static void Main(string[] args)
         {
             Console.WriteLine("� 5 Horovenko");
-            Console.WriteLine("9 - Klymov");
             Console.WriteLine("Kolomiets Anya "+"13");
             Console.WriteLine("№3 Kate Babanina");
+            Console.WriteLine("9 - Klymov Andrii");
+        }
+    }
 }
