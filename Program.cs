@@ -8,6 +8,7 @@ namespace TRPZ2
         {
             Console.WriteLine("IA-81 Hrytsyshyn Dmytro â„–07!");
             Console.WriteLine("¹ 5 Horovenko");
+            Console.WriteLine("25 Syniepolskyi Serafym");
         }
     }
 }
