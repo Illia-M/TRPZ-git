@@ -8,6 +8,4 @@ namespace TRPZ2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("№3 Kate Babanina");
-        }
-    }
 }
