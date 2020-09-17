@@ -9,8 +9,6 @@ namespace TRPZ2
 
 
             Console.WriteLine("06 Hrechyn Alina");
-        }
-    }
 
             Console.WriteLine("Hello World!");
 
