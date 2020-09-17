@@ -6,7 +6,7 @@ namespace TRPZ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Kolomiets Anya "+"13");
+            Console.WriteLine("Hello World!");
         }
     }
 }
