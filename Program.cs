@@ -13,6 +13,8 @@ namespace TRPZ2
             Console.WriteLine("Kolomietz Anna " + 13);
             Console.WriteLine("Sereda Yevgen, 24");
             Console.WriteLine("№3 Kate Babanina");
+            Console.WriteLine("9 - Klymov Andrii");
+
         }
     }
 }
