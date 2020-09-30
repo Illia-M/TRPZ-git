@@ -9,5 +9,4 @@ print ( '# Savina' )
 print('#23 Oleksandr Rohov')
 print("21 Peresunko Dima")
 print(" 18 Anton Novak")
-
 print("#8 Arthur Zevaloff")
