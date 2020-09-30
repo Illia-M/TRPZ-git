@@ -7,7 +7,4 @@ print('#11 Nastya Kovalenko')
 print('#8 Arthur Zevaloff')
 print('#23 Oleksandr Rohov')
 print ( '# 20 Денис Паршуткин' )
-
-
-
 print("21 Peresunko Dima")
