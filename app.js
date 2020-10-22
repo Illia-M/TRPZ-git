@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
   res.setHeader('Content-Type', 'text/plain');
   res.write('#7 Andrew Gurzheev\n');
   res.write('#26 Katherine Filonenko\n');
-  res.write('#26 Nechitaylo\n');
+  res.write('#17 Dima Nechitaylo\n');
   res.end('Hello World');
 });
 
