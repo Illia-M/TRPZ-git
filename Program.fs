@@ -16,7 +16,8 @@ let main argv =
     printfn "Savina Olga"
     printfn "Anton Novak"
     printfn "Uliana Kolomiets"
-       printfn "Savina"
+	printfn "Ilya Nesterenko"
+    printfn "Savina"
     0 // return an integer exit code
 =======
 
