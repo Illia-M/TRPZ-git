@@ -17,6 +17,6 @@ let main argv =
 =======
     printfn "Savina Olga"
     printfn "Anton Novak"
-    printfn "Uliana Kolomiiets"
+    printfn "Uliana Kolomiets"
     0 // return an integer exit code
 >>>>>>> Stashed changes
