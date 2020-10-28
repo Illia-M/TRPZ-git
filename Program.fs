@@ -12,4 +12,5 @@ let main argv =
     let student = from "#1 FirstName LastName" // Call the function
     printfn "Hello world %s" message
     printfn "Hello %s" student
+    printfn "Savina Olga"
     0 // return an integer exit code
