@@ -14,4 +14,5 @@ let main argv =
     printfn "Hello %s" student
     printfn "Savina Olga"
     printfn "Anton Novak"
+    printfn "Uliana Kolomiets"
     0 // return an integer exit code
