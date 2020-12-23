@@ -20,7 +20,7 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
             "3. FirstName LastName"
             "4. FirstName LastName"
             "5. Vlad Melaschenko"
-            "6. FirstName LastName"
+            "6. Anton Shikhert"
             "7. Liashenko Polina"
             "8. Lanko Vladimir"
             "9. Vitaliy Berezovskiy"
