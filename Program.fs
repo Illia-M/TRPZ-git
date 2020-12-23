@@ -9,7 +9,7 @@ let from whom =
 [<EntryPoint>]
 let main argv =
     let message = from "F#" // Call the function
-    let student = from "#1 FirstName LastName" // Call the function
+    let student = from "#1 Andrey Luzhanskiy" // Call the function
     printfn "Hello world %s" message
     printfn "Hello %s" student
     0 // return an integer exit code
