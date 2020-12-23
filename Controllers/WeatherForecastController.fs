@@ -29,8 +29,9 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
             "9. Vitaliy Berezovskiy"
 	    	"10. Kostia Bazelyuk"
 	    	"11. Alexandr Teplyuk"
-	    "12. Harnyk Dima."
-                            "13. Kyrylo Moseichuk"
+	        "12. Harnyk Dima."
+            "13. Kyrylo Moseichuk"
+            "14. Makarov Valeriy"
         |]
 
     [<HttpGet>]
