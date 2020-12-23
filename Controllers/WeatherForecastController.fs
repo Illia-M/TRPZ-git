@@ -15,16 +15,12 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
 
     let summaries =
         [|
-<<<<<<< HEAD
             "1. FirstName LastName"
 		Vlad Ulizko
-=======
-            
+            "1. FirstName LastName"
             "2. FirstName LastName"
             "3. FirstName LastName"
-            "3. Vladyslav Melaschenko"
->>>>>>> Vladyslav_Melaschenko
-            "4. FirstName LastName"
+            "4. Vlad Melaschenko"
             "5. FirstName LastName"
             "6. FirstName LastName"
             "7. Liashenko Polina"
