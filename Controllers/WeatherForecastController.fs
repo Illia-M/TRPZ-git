@@ -23,6 +23,7 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
             "5. Anton Shikhert"
             "6. FirstName LastName"
             "0. Kyrylo Moseichuk"
+		"7. Mitroshichev Igor"
         |]
 
     [<HttpGet>]
