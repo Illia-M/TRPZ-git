@@ -19,7 +19,7 @@ namespace TRPZ2
         {
             var studentsList = new[]
             {
-                "1. FistName LastName"
+                "1. Andrei Chernya"
             };
             
             return Task.FromResult(new HelloReply
