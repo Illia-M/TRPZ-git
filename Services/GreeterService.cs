@@ -19,8 +19,7 @@ namespace TRPZ2
         {
             var studentsList = new[]
             {
-                "1. Andrei Chernya"
-                "2. Tymchenko_Kyrylo"
+                "1. Tymchenko Kyrylo"
             };
             
             return Task.FromResult(new HelloReply
