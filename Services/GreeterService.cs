@@ -24,6 +24,7 @@ namespace TRPZ2
                  "2. Tymchenko_Kyrylo"
                  "3. Nykyforova_Oleksandra"
                  "4. Igor_Mitroshichev"
+                 "5. Arhipov Bohdan"
             };
             
             return Task.FromResult(new HelloReply
