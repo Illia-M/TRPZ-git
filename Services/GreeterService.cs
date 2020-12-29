@@ -23,6 +23,7 @@ namespace TRPZ2
                  "1. Andrei Chernya"
                  "2. Tymchenko_Kyrylo"
                  "3. Nykyforova_Oleksandra"
+                 "4. Igor_Mitroshichev"
             };
             
             return Task.FromResult(new HelloReply
