@@ -8,6 +8,10 @@ let from whom =
 
 [<EntryPoint>]
 let main argv =
+
     let name1 = from "Anatolii Dudik!" // Call the function
+
+    let name2 = from "Daniil Shramko!" // Call the function
+
     printfn "Hello world %s" name1
     0 // return an integer exit code
