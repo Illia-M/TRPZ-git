@@ -10,3 +10,4 @@ let from whom =
 let main argv =
     let name1 = from "Daniil Shramko!" // Call the function
     printfn "Hello world %s" name1
+    0 // return an integer exit code
