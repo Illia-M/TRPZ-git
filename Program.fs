@@ -15,3 +15,4 @@ let main argv =
 >>>>>>> e6e7a743a8a84c6857afb6dc4ed6603692760b23
     printfn "Hello world %s" name1
     0 // return an integer exit code
+Oleh Yermak
