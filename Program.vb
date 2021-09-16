@@ -5,7 +5,6 @@ Module Program
         Console.WriteLine("Hello World!")
         Console.WriteLine("Ovchynnikov Serhii")
         Console.WriteLine("Mashkov Andriy")
-		    Console.WriteLine("Nikita Linovytskyi")
-        Console.WriteLine("Andrei Ishchenko")
+		Console.WriteLine("Nikita Linovytskyi")
     End Sub
 End Module
