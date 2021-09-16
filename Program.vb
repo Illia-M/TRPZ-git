@@ -26,7 +26,5 @@ Module Program
 
         Console.WriteLine("Anna Morhunova")
         Console.WriteLine("Zhohan Vsevolod")
-
->>>>>>> 2a0929f65fd1d688f3d580efc1a48aa61b1e09f3
     End Sub
 End Module
