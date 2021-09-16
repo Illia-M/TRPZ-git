@@ -5,5 +5,6 @@ Module Program
         Console.WriteLine("Hello World!")
         Console.WriteLine("Dzigil Uliana")
         Console.WriteLine("Dzigil Uliana")
+        Console.WriteLine("Dzigil Uliana")
     End Sub
 End Module
