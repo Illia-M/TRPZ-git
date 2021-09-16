@@ -23,5 +23,8 @@ Module Program
         Console.WriteLine("Anna Morhunova")
         Console.WriteLine("Zhohan Vsevolod")
 
+        Console.WriteLine("Dzigil Uliana")
+        Console.WriteLine("Dzigil Uliana")
+        Console.WriteLine("Dzigil Uliana")
     End Sub
 End Module
