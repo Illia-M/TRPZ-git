@@ -7,5 +7,6 @@ Module Program
         Console.WriteLine("Mashkov Andriy")
 		Console.WriteLine("Nikita Linovytskyi")
         Console.WriteLine("Anna Morhunova")
+		Console.WriteLine("Anastasia Gritsenko")
     End Sub
 End Module
