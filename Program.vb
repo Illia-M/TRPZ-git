@@ -5,7 +5,6 @@ Module Program
         Console.WriteLine("Hello World!")
         Console.WriteLine("Sergey Ovchinnikov")
 		Console.WriteLine("Maria Lutskevich")
-        Console.WriteLine("Ovchynnikov Serhii")
         Console.WriteLine("Mashkov Andriy")
 		Console.WriteLine("Nikita Linovytskyi")
         Console.WriteLine("Anna Morhunova")
