@@ -3,6 +3,6 @@ Imports System
 Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
-        Console.WriteLine("FirstName LastName")
+        Console.WriteLine("Andrei Ishchenko")
     End Sub
 End Module
