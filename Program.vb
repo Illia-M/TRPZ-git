@@ -12,12 +12,12 @@ Module Program
         Console.WriteLine("Ovchynnikov Serhii")
         Console.WriteLine("Mashkov Andriy")
 		Console.WriteLine("Nikita Linovytskyi")
-        Console.WriteLine("Zhohan Vsevolod")
 
 
 
 >>>>>>> 8e3e9147013aab9236069be2aff4384686e51cd1
         Console.WriteLine("Anna Morhunova")
+        Console.WriteLine("Zhohan Vsevolod")
 
     End Sub
 End Module
