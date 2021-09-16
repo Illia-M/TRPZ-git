@@ -3,8 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
-<<<<<<< HEAD
-=======
+
 
         Console.WriteLine("Sergey Ovchinnikov")
 		Console.WriteLine("Maria Lutskevich")
@@ -16,8 +15,11 @@ Module Program
 
 
 
->>>>>>> 8e3e9147013aab9236069be2aff4384686e51cd1
+		
         Console.WriteLine("Anna Morhunova")
+		
 
+		Console.WriteLine("Anastasia Gritsenko")
+		Anastasia_Gritsenko
     End Sub
 End Module
