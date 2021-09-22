@@ -9,5 +9,4 @@ print('Oleksiy Didenko')
 print('Dmytro Tymoshok')
 print("Oleksandr Kachanov")
 print('Tolkunov Ivan')
-print('Khomutov Ilya')
 print("Oleksandr Drozdiuk");
