@@ -1,7 +1,6 @@
 print("Hello World")
-
-print("Ilona Mykhailova")
 print("FirstName LastName")
+print("Ilona Mykhailova")
 print("Serhii Basik")
 print("Artem Bystritskyi")
 print("Ivashchenko Daniil")
@@ -10,5 +9,4 @@ print('Dmytro Tymoshok')
 print("Oleksandr Kachanov")
 print('Tolkunov Ivan')
 print("Andriy Dyug")
-print('Khomutov Ilya')
-print("Oleksandr Drozdiuk");
+print("Oleksandr Drozdiuk")
