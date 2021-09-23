@@ -18,5 +18,10 @@ func main() {
 	fmt.Println("Evheniy Volyk")
 	fmt.Println("Maksym Chalyi")
     fmt.Println("Karyna Khotin")
+    fmt.Println("Dmytro Arseniyk")
     fmt.Println("Petro Herenshtein")
+
+    fmt.Println("Hriaznova")
 }
+
+
