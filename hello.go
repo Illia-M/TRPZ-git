@@ -18,6 +18,3 @@ func main() {
     fmt.Println("Karyna Khotin")
     fmt.Println("Petro Herenshtein")
 }
-
-}
-
