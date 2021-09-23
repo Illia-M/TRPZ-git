@@ -18,5 +18,4 @@ func main() {
      fmt.Println("Hriaznova Yevheniia")
     
 }
->>>>>>> d7bec043a7dfbec4ae7ff5181ead709408a90fc5
->>>>>>> Stashed changes
+
