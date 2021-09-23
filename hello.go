@@ -9,6 +9,7 @@ func main() {
     fmt.Println("Denis Vasylyev")
     fmt.Println("FirstName LastName")
     fmt.Println("Sofiia Fedor")
+
     fmt.Println("FirstName LastName")
     fmt.Println("Oleksandr Kuzmenko")
     fmt.Println("FirstName LastName")
@@ -43,5 +44,6 @@ func main() {
 	fmt.Println("Vladyslav Polishchuk")
 	fmt.Println("Maksym Chalyi")
     fmt.Println("Karyna Khotin")
+
 }
 
