@@ -17,7 +17,7 @@ func main() {
     fmt.Println("Denys Suk")
     fmt.Println("Khrystyna Ambroziak")
      fmt.Println("Hriaznova Yevheniia")
-    
+    fmt.Println("Volodymyr Chumak")
+    fmt.Println("Yaroslav Raksha")
 }
-
 
