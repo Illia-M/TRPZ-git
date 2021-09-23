@@ -6,4 +6,5 @@ func main() {
     fmt.Println("Volodymyr Chumak")
     fmt.Println("Denys Suk")
     fmt.Println("Khrystyna Ambroziak")
+
 }
