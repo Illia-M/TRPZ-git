@@ -13,5 +13,5 @@ func main() {
     fmt.Println("Denys Suk")
     fmt.Println("Khrystyna Ambroziak")
 	fmt.Println("Vladyslav Polishchuk")
-    
+
 }
