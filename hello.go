@@ -2,6 +2,6 @@ package main
 import "fmt"
 func main() {
     fmt.Println("hello world")
-    fmt.Println("FirstName LastName")
     fmt.Println("Sofia Trokhymtchuk")
+    fmt.Println("Sofiia Fedor")
 }
