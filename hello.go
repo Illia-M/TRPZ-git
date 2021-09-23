@@ -5,5 +5,4 @@ func main() {
     fmt.Println("Denis Vasylyev")
     fmt.Println("Sofiia Fedor")
     fmt.Println("Volodymyr Chumak")
-    fmt.Println("Yaroslav Raksha")
 }
