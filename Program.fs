@@ -13,5 +13,9 @@ let main argv =
 
     let name2 = from "Daniil Shramko!" // Call the function
 
+    let name3 = from "Vitaliy Smorodinov" // Call the function
+
     printfn "Hello world %s" name1
+    printfn "Hello world %s" name2
+    printfn "Hello world %s" name3
     0 // return an integer exit code
