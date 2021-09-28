@@ -7,7 +7,6 @@ Module Program
         Console.WriteLine("Sergey Ovchinnikov")
 		Console.WriteLine("Maria Lutskevich")
         Console.WriteLine("Mashkov Andriy")
-		Console.WriteLine("Albina Suyusanova")
 		Console.WriteLine("Nikita Linovytskyi")
         Console.WriteLine("Bezsmertnyi Oleksandr")
         Console.WriteLine("Sergey Ovchinnikov")
@@ -21,9 +20,9 @@ Module Program
         Console.WriteLine("Andrei Ishchenko")
 		Console.WriteLine("Anastasia Gritsenko")
         Console.WriteLine("Dzigil Uliana")
-	Console.WriteLine("Albina Suyusanova")
-	Console.WriteLine("Albina Suyusanova")
-	Console.WriteLine("Albina Suyusanova")
-	Console.WriteLine("Anhelina Liaskovych")
+	    Console.WriteLine("Albina Suyusanova")
+		Console.WriteLine("Anhelina Liaskovych")
+		Console.WriteLine("Duminskiy Denis")
+		
     End Sub
 End Module
