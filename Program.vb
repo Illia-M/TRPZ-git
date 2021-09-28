@@ -25,5 +25,6 @@ Module Program
 	Console.WriteLine("Albina Suyusanova")
 	Console.WriteLine("Albina Suyusanova")
 	Console.WriteLine("Anhelina Liaskovych")
+	Console.WriteLine("Duminskiy Denis")
     End Sub
 End Module
