@@ -20,6 +20,7 @@ namespace TRPZ2
             listBox1.Items.Add("HriaznovaYevhennia");
             listBox1.Items.Add("Danil Shapovalov");
             listBox1.Items.Add("Andrew Chikrii");
+            listBox1.Items.Add("Ihor Ponomarov");
         }
 
     }
