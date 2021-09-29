@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,8 +20,11 @@ namespace TRPZ2
             listBox1.Items.Add("HriaznovaYevhennia");
             listBox1.Items.Add("Danil Shapovalov");
             listBox1.Items.Add("Andrew Chikrii");
+	          listBox1.Items.Add("Polina Sopoleva");
+            listBox1.Items.Add("Stepan Korol");
             listBox1.Items.Add("Ihor Ponomarov");
-           listBox1.Items.Add("KaterynaArtemenkО");
+            listBox1.Items.Add("Anatolii Dudik");
+            listBox1.Items.Add("KaterynaArtemenkО")
         }
 
     }
