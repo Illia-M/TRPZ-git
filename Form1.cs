@@ -16,6 +16,7 @@ namespace TRPZ2
         {
             InitializeComponent();
             listBox1.Items.Add("FirstName LastName");
+            listBox1.Items.Add("HriaznovaYevhennia");
         }
 
     }
