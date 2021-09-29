@@ -25,6 +25,7 @@ namespace TRPZ2
             listBox1.Items.Add("Kateryna Artemenko");
             listBox1.Items.Add("Anatolii Dudik");
             listBox1.Items.Add("Oleh Yermak");
+            listBox1.Items.Add("Vitaliy Smorodinov");
         }
 
     }
