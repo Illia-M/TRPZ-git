@@ -17,13 +17,13 @@ let main argv =
 
     let name4 = from "Vitaliy Smorodinov" // Call the function
 
-    let name5 = from "Vitaliy Smorodinov" // Call the function
+    let name5 = from "Mikriukov Mikhail" // Call the function
 
     printfn "Hello world %s" name1
     printfn "Hello world %s" name2
     printfn "Hello world %s" name3
     printfn "Hello world %s" name4
-    printfn "Hello world %s" name
+    printfn "Hello world %s" name5
 
 
     0 // return an integer exit code 
