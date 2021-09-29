@@ -16,7 +16,6 @@ namespace TRPZ2
         {
             InitializeComponent();
             listBox1.Items.Add("Alexandr Rolik");
-   
         }
     }
 }
