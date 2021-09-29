@@ -21,7 +21,6 @@ namespace TRPZ2
             listBox1.Items.Add("Andrew Chikrii");
             listBox1.Items.Add("Mikriukov Mikhail"); 
 	        listBox1.Items.Add("Polina Sopoleva");
-	        listBox1.Items.Add("Polina Sopoleva");
             listBox1.Items.Add("Stepan Korol");
             listBox1.Items.Add("Ihor Ponomarov");
             listBox1.Items.Add("Kateryna Artemenko");
