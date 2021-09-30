@@ -6,6 +6,6 @@ Module Program
         Console.WriteLine("Ovchynnikov Serhii")
         Console.WriteLine("Mashkov Andriy")
         Console.WriteLine("Nikita Linovytskyi")
-        Console.WriteLine("Igor Gulyaschy")
+        Console.WriteLine("Igor Gulyaschy22")
     End Sub
 End Module
