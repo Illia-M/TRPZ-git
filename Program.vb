@@ -15,6 +15,7 @@ Module Program
         Console.WriteLine("Ovchynnikov Serhii")
         Console.WriteLine("Mashkov Andriy")
         Console.WriteLine("Nikita Linovytskyi")
+<<<<<<< HEAD
         Console.WriteLine("Igor Gulyaschy")
 		Console.WriteLine("Nikita Linovytskyi")
         Console.WriteLine("Anna Morhunova")
@@ -26,5 +27,8 @@ Module Program
 	Console.WriteLine("Albina Suyusanova")
 	Console.WriteLine("Anhelina Liaskovych")
 	Console.WriteLine("Duminskiy Denis")
+=======
+        Console.WriteLine("Igor Gulyaschy22")
+>>>>>>> Igor_Gulyaschy
     End Sub
 End Module
