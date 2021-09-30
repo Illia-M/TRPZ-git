@@ -1,4 +1,4 @@
-﻿using System.Windows;
+using System.Windows;
 
 namespace TRPZ2
 {
@@ -11,8 +11,11 @@ namespace TRPZ2
         {
             InitializeComponent();
             lb1.Items.Add("FirstName LastName");
+            lb1.Items.Add("Vsevolod Zhohan");
             lb1.Items.Add("Denis Vasylyev IA94");
-            lb1.Items.Add("Oleh Yermak");
+            lb1.Items.Add("Andrei Ishchenko");
+            lb1.Items.Add("Alexandr Rolik");
+            lb1.Items.Add("Oleg Yermak");
         }
     }
 }
