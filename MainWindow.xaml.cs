@@ -20,7 +20,7 @@ namespace TRPZ2
             lb1.Items.Add("Anhelina Liaskovych");
             lb1.Items.Add("Anhelina Liaskovych"); 
             lb1.Items.Add("Vlad Minaiev");
-            lb1.Items.Add("Igor Gulyaschy");
+            lb1.Items.Add("Igor Gulyaschy2");
         }
     }
 }
