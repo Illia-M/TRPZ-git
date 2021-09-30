@@ -18,6 +18,10 @@ namespace TRPZ2
             lb1.Items.Add("Oleg Yermak");
             lb1.Items.Add("Maksym Mezhuiev");
             lb1.Items.Add("Anhelina Liaskovych");
+            lb1.Items.Add("Anhelina Liaskovych"); 
+            lb1.Items.Add("Vlad Minaiev");
+
+
         }
     }
 }
