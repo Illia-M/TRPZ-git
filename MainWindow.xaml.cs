@@ -20,16 +20,19 @@ namespace TRPZ2
             lb1.Items.Add("Anhelina Liaskovych");
             lb1.Items.Add("Anhelina Liaskovych"); 
             lb1.Items.Add("Vlad Minaiev");
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
+
+
             lb1.Items.Add("Oleksandr Zahoruyko");
->>>>>>> 561e09d8fee6926e9e02e1de98891a26312d3472
 
 
-=======
+	    lb1.Items.Add("Volodymyr Alioshkin");
+
+
+
+
             lb1.Items.Add("Igor Gulyaschy");
->>>>>>>     Igor_Gulyaschy2
+
         }
     }
 }
