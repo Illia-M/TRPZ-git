@@ -21,17 +21,7 @@ namespace TRPZ2
             lb1.Items.Add("Anhelina Liaskovych"); 
             lb1.Items.Add("Vlad Minaiev");
 
-
-
-            lb1.Items.Add("Oleksandr Zahoruyko");
-
-
-	    lb1.Items.Add("Volodymyr Alioshkin");
-
-
-
-
-            lb1.Items.Add("Igor Gulyaschy");
+            lb1.Items.Add("Igor Gulyaschy2");
 
         }
     }
