@@ -8,6 +8,7 @@ public func swift_main() -> Swift.Int32
     {
         try System.Console.WriteLine(value: "Hello World");
         try System.Console.WriteLine(value: "FirstName LasltName");
+        try System.Console.WriteLine(value: "Oleksandra Brechko");
 
         return 0;
     } 
