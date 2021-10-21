@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RustToolchain>Redchyts Angela</RustToolchain>
+    <RustToolchain>Redchyts Anzhela</RustToolchain>
   </PropertyGroup>
 
 </Project>
