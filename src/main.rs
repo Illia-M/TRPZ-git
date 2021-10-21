@@ -36,7 +36,7 @@ pub extern "C" fn main() {
     ::dotnet::System::Console::WriteLine_1(&s_clr);
 
     
-    let s = "Angela Redchyts";
+    let s = "Anzhela Redchyts";
     // convert the Rust string (utf8) to a CLR string
     let s_clr = ::dotnet::System::Text::Encoding::UTF8().GetString_1(s.as_bytes());
     ::dotnet::System::Console::WriteLine_1(&s_clr);
