@@ -353,3 +353,4 @@ _pkginfo.txt
 !?*.[Cc]ache/
 /.vscode
 *.orig
+/.build
