@@ -1,4 +1,4 @@
-<Project Sdk="SourceGear.Rust.NET.Sdk/0.1.1">
+<Project Sdk="SourceGear.Rust.NET.Sdk/0.1.5">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
