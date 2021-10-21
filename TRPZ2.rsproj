@@ -1,9 +1,7 @@
 <Project Sdk="SourceGear.Rust.NET.Sdk/0.1.1">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RustToolchain>+nightly</RustToolchain>
+    <Output> Redchyts Angela </Output>
   </PropertyGroup>
 
 </Project>
