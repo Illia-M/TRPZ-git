@@ -26,7 +26,7 @@ namespace TRPZ2
             listBox1.Items.Add("Kateryna Artemenko");
             listBox1.Items.Add("Vitaliy Smorodinov");
             listBox1.Items.Add("Alexandr Rolik");
-            listBox1.Items.Add("Eduard Kats");
+            listBox1.Items.Add("Eduard Kats"); //Eduard Kats
         }
     }
 }
