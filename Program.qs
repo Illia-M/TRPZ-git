@@ -9,7 +9,8 @@
         Message("Hello quantum world!");
         Message("FirstName LastName");
         Message("Shramko Daniil");
-		Message("Ivan Meshko");//meshko ivan
+        Message("Eduard Kats");
+        Message("Ivan Meshko");//meshko ivan
     }
 }
 
