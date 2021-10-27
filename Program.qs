@@ -8,7 +8,7 @@
     operation HelloQ() : Unit {
         Message("Hello quantum world!");
         Message("FirstName LastName");
-	Message("Max NikiТiuk");
+	Message("Maks NikiТiuk");
     }
 }
 
