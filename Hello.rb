@@ -1,2 +1,2 @@
 puts "Hello, world!"
-puts "FirstName LastName"
+puts "Anton Treushchenko"
