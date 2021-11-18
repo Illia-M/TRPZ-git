@@ -1,5 +1,5 @@
 puts "Hello, world!"
 puts "Anton Treushchenko"
-puts "FirstName LastName"
+puts "Suren Martikian"
 puts "Vlad Yelisevych"
 
