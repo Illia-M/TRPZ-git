@@ -1,6 +1,8 @@
 program HelloWorld;
 begin
   WriteLn('Hello, world!');
-  WriteLn('Iryna Demydova');
+
+  WriteLn('Yelyzaveta Lavrentik');
+   WriteLn('Iryna Demydova');
 
 end.
