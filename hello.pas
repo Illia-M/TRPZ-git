@@ -3,7 +3,10 @@ begin
   WriteLn('Hello, world!');
 
   WriteLn('Yelyzaveta Lavrentik');
+
   WriteLn('Iryna Demydova');
-  WriteLn('Kyrylo Sus');
+
+  WriteLn('Kyryll Sus');
+
 
 end.
