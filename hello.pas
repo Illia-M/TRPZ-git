@@ -4,5 +4,6 @@ begin
 
   WriteLn('Yelyzaveta Lavrentik');
    WriteLn('Iryna Demydova');
+    WriteLn('Kyrylo Sus');
 
 end.
