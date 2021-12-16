@@ -3,5 +3,6 @@ object HelloWorld {
     println("Hello, World!")
     println("FirstName LastName")
     println("Roma Koval")
+    println("Yaroslav Raksha")
   }
 }
