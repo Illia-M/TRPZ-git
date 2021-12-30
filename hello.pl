@@ -11,4 +11,5 @@ print("Natan Gorbatiuk\n");
 print("Roman Koval\n");
 >>>>>>> 5297257 (123)
 print("Artemii Goncharenko\n");
+
 print("Artem lazarenko\n");
