@@ -4,5 +4,9 @@ begin
   Put_Line("Hello, world!");
   Put_Line("FirstName LastName");
   Put_Line("Trach Ruslana");
+  Put_Line("Kesil Stas");
+  Put_Line("Lazarenko Artem");
+  Put_Line("Ruslan Slivka");
+  Put_Line("Nazar Omelchuk");
   Put_Line("Oleksandr Panasiuk");
 end Hello;
