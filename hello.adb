@@ -7,6 +7,6 @@ begin
   Put_Line("Oleksandr Panasiuk");
   Put_Line("Mykhailo Leikin");
   Put_Line("Artemii Goncharenko");
-   Put_Line("Kesil Stas");
+  Put_Line("Kesil Stas");
   Put_Line("Lazarenko Artem");
 end Hello;
