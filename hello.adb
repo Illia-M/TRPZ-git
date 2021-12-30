@@ -9,4 +9,5 @@ begin
   Put_Line("Artemii Goncharenko");
   Put_Line("Kesil Stas");
   Put_Line("Lazarenko Artem");
+  Put_Line("Ruslan Slivka");
 end Hello;
