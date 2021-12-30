@@ -27,6 +27,7 @@ Module Program
 	Console.WriteLine("Albina Suyusanova")
 	Console.WriteLine("Anhelina Liaskovych")
 	Console.WriteLine("Duminskiy Denis")
+    Console.WriteLine("Slivka Ruslan")
 =======
         Console.WriteLine("Igor Gulyaschy22")
 >>>>>>> Igor_Gulyaschy
