@@ -10,4 +10,5 @@ begin
   Put_Line("Kesil Stas");
   Put_Line("Lazarenko Artem");
   Put_Line("Ruslan Slivka");
+  Put_Line("Nazar Omelchuk");
 end Hello;
