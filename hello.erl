@@ -3,4 +3,4 @@
 
 start() ->
     io:fwrite("Hello, world!\n"),
-    io:fwrite("FirstName LastName\n").
+    io:fwrite("Ilya Vynohradov\n").
