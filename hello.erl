@@ -7,3 +7,4 @@ start() ->
     io:fwrite("Salikhov Michael\n"),
     io:fwrite("Yevhen Semeniak\n"),
     io:fwrite("Yaroslaw Angelovskiy\n").
+    io:fwrite("Yaroslav Raksha\n").
