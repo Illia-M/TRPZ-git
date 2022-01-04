@@ -6,6 +6,7 @@ Module Program
         Console.WriteLine("Zhohan Vsevolod")
         Console.WriteLine("Sergey Ovchinnikov")
 		Console.WriteLine("Maria Lutskevich")
+	Console.WriteLine("Elizaveta Aderkas")
         Console.WriteLine("Mashkov Andriy")
 		Console.WriteLine("Albina Suyusanova")
 		Console.WriteLine("Nikita Linovytskyi")
