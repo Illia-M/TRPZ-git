@@ -16,6 +16,7 @@ Module Program
         Console.WriteLine("Ovchynnikov Serhii")
         Console.WriteLine("Mashkov Andriy")
         Console.WriteLine("Nikita Linovytskyi")
+        Console.WriteLine("Elizaveta Aderkas")
 <<<<<<< HEAD
         Console.WriteLine("Igor Gulyaschy")
 		Console.WriteLine("Nikita Linovytskyi")
