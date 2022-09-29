@@ -1,4 +1,6 @@
-﻿using System.Windows;
+
+using System.Windows;
+
 
 namespace TRPZ2
 {
@@ -10,11 +12,24 @@ namespace TRPZ2
         public MainWindow()
         {
             InitializeComponent();
+
+            lb1.Items.Add("Anna Heleshko");
+
             lb1.Items.Add("Stas Logvynskyi");
             lb1.Items.Add("Oleksiy Okorokov");
             lb1.Items.Add("Daniil Zhdanovvv");
             lb1.Items.Add("Dmitrii Nieliepin");
 
+            lb1.Items.Add("Max Vavryniuk");
+            lb1.Items.Add("Andrey Kolomets");
+            lb1.Items.Add("Yana Yushchuk");
+            lb1.Items.Add("Denys Sorokin");
+            lb1.Items.Add("Danil Melnik");
+            lb1.Items.Add("Yevhenii Borysenko");
+            lb1.Items.Add("Oleksii Kravchenko");
+
+
         }
     }
 }
+
