@@ -23,7 +23,9 @@ namespace TRPZ2
 	        lb1.Items.Add("Volodymyr Danchuk");
             lb1.Items.Add("Huz Bohdan");
 	        lb1.Items.Add("Denys Grynenko");
+            lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Maksym Melnyk");
         }
     }
 }
+
