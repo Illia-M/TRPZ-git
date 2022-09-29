@@ -15,6 +15,7 @@ namespace TRPZ2
             lb1.Items.Add("Dmitrii Nieliepin");
             lb1.Items.Add("Max Vavryniuk");
 			lb1.Items.Add("Andrey Kolomets");
+            lb1.Items.Add("Yana Yushchuk");
         }
     }
 }
