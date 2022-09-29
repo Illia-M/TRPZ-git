@@ -15,14 +15,22 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
 
     let summaries =
         [|
+<<<<<<< HEAD
+            "1. FirstName LastName"
             "2. Oleksandr Yudakov"
-            "3. Maxiiiiiiiiiim Vavryniuk"
+            "3. Max Vavryniuk"
             "4. Andrii Andreiev"
+            "2. FirstName LastName"
+            "3. FirstName LastName"
             "3. Maximka Vavryniuk"
-			"10. Andrey Kolomoets"
+            "4. FirstName LastName"
+            "5. FirstName LastName"
+            "6. FirstName LastName"
 			"20. Stanislav Palamar"
             "13. Kulbanevych Mykyta"
-            
+=======
+            "10. Andrey Kolomoets"
+>>>>>>> 5145a19 (add name Andrey Kolomoets to file)
         |]
 
     [<HttpGet>]
