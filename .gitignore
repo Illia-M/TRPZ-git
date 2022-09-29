@@ -354,3 +354,5 @@ _pkginfo.txt
 /.vscode
 *.orig
 /.build
+
+*.bak
