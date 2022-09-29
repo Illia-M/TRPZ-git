@@ -11,6 +11,7 @@ namespace TRPZ2
         {
             InitializeComponent();
             lb1.Items.Add("FirstName LastName");
+            lb1.Items.Add("Max Vavryniuk");
         }
     }
 }
