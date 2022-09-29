@@ -1,4 +1,4 @@
-﻿namespace TRPZ2.Controllers
+namespace TRPZ2.Controllers
 
 open System
 open System.Collections.Generic
@@ -15,13 +15,12 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
 
     let summaries =
         [|
-            "1. FirstName LastName"
-            "2. Oleksandr Yudakov"
-            "3. Maximka Vavryniuk"
-            "4. FirstName LastName"
-            "5. FirstName LastName"
-            "6. FirstName LastName"
-            "13. Kulbanevych Mykyta"
+            "1. Yehor Titov"
+            "2. Yehor Titov"
+            "3. Yehor Titov"
+            "4. Yehor Titov"
+            "5. Yehor Titov"
+            "6. Yehor Titov"
         |]
 
     [<HttpGet>]
