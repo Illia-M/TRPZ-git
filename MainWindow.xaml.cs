@@ -18,6 +18,9 @@ namespace TRPZ2
 			lb1.Items.Add("Andrey Kolomets");
             lb1.Items.Add("Yana Yushchuk");
             lb1.Items.Add("Denys Sorokin");
+<<<<<<< HEAD
+			lb1.Items.Add("Knysh Nazar");
+=======
             lb1.Items.Add("Danil Melnik");
 	    lb1.Items.Add("Volodymyr Danchuk");
 <<<<<<< HEAD
