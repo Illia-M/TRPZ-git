@@ -23,5 +23,5 @@ module Program =
     [<EntryPoint>]
     let main args =
         CreateHostBuilder(args).Build().Run()
-
+		printfn "Stanislav Palamar"
         exitCode
