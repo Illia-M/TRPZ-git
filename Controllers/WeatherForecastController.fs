@@ -1,4 +1,4 @@
-﻿namespace TRPZ2.Controllers
+namespace TRPZ2.Controllers
 
 open System
 open System.Collections.Generic
@@ -26,6 +26,7 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
 	        "18. Danyl Melnyk"
 			"19. Olexandr Opalatenko"
 			"17. Dmytro Brahar"
+            "20. Yehor Kukharchuk"
 			
         |]
 
