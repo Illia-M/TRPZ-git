@@ -10,7 +10,7 @@ namespace TRPZ2
         public MainWindow()
         {
             InitializeComponent();
-            lb1.Items.Add("FirstName LastName");
+            lb1.Items.Add("Dmitrii Nieliepin");
         }
     }
 }
