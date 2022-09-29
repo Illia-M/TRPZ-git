@@ -17,6 +17,7 @@ namespace TRPZ2
 			lb1.Items.Add("Andrey Kolomets");
             lb1.Items.Add("Denys Sorokin");
             lb1.Items.Add("Danil Melnik");
+            lb1.Items.Add("Karyna Sobkovska");
         }
     }
 }
