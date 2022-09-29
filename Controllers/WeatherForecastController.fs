@@ -16,9 +16,8 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
     let summaries =
         [|
             "2. Oleksandr Yudakov"
-            "3. Maxiiiiiiiiiim Vavryniuk"
+            "3. Max Vavryniuk"
             "4. Andrii Andreiev"
-            "3. Maximka Vavryniuk"
             "6. Bohdan Huz"
 			"10. Andrey Kolomoets"
 			"20. Stanislav Palamar"
