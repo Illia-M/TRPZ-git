@@ -13,6 +13,7 @@ namespace TRPZ2
             lb1.Items.Add("FirstName LastName");
             lb1.Items.Add("Max Vavryniuk");
             lb1.Items.Add("Denys Sorokin");
+            lb1.Items.Add("Danil Melnik");
         }
     }
 }
