@@ -45,7 +45,7 @@ namespace TRPZ2
 lb1.Items.Add("Huz Bohdan");
 =======
 	    lb1.Items.Add("Denys Grynenko");
-
+	 lb1.Items.ADd("Vitalii Panchenko")
 
         }
     }
