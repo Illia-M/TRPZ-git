@@ -25,7 +25,6 @@ namespace TRPZ2
             lb1.Items.Add("Yana Yushchuk");
             lb1.Items.Add("Denys Sorokin");
             lb1.Items.Add("Danil Melnik");
-<<<<<<< HEAD
 
             lb1.Items.Add("Karyna Sobkovska");
 
@@ -43,11 +42,8 @@ namespace TRPZ2
 	        lb1.Items.Add("Denys Grynenko");
 		    lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Vladimir Fokow");
-=======
             lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Oleksii Kravchenko");
-
->>>>>>> 9ca6ff116c9c96577763b1d03df986680346d531
 
         }
     }
