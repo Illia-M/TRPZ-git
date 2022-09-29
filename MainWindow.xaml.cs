@@ -37,6 +37,7 @@ lb1.Items.Add("Huz Bohdan");
             lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Maksym Melnyk");
             lb1.Items.Add("Ganna Demchuk");
+            lb1.Items.Add("Vadim Prohorchuk");
         }
     }
 }
