@@ -17,7 +17,7 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
         [|
             "1. FirstName LastName"
             "2. FirstName LastName"
-            "3. FirstName LastName"
+            "3. Max Vavryniuk"
             "4. FirstName LastName"
             "5. FirstName LastName"
             "6. FirstName LastName"
