@@ -20,6 +20,7 @@ namespace TRPZ2
             lb1.Items.Add("Denys Sorokin");
             lb1.Items.Add("Danil Melnik");
 	    lb1.Items.Add("Volodymyr Danchuk");
+	    lb1.Items.Add("Denys Grynenko");
 
         }
     }
