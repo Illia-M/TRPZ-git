@@ -24,4 +24,7 @@ module Program =
     let main args =
         CreateHostBuilder(args).Build().Run()
 
+        printfn "Kulbanevych Mykyta"
+
         exitCode
+Max_Vavryniuk
