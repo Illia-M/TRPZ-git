@@ -18,18 +18,11 @@ namespace TRPZ2
 			lb1.Items.Add("Andrey Kolomets");
             lb1.Items.Add("Yana Yushchuk");
             lb1.Items.Add("Denys Sorokin");
-		 lb1.Items.Add("Yevhenii Borysenko");
-<<<<<<< HEAD
-			lb1.Items.Add("Knysh Nazar");
-=======
             lb1.Items.Add("Danil Melnik");
 	    lb1.Items.Add("Volodymyr Danchuk");
-<<<<<<< HEAD
-lb1.Items.Add("Huz Bohdan");
-=======
 	    lb1.Items.Add("Denys Grynenko");
+		lb1.Items.Add("Yevhenii Borysenko");
 
->>>>>>> 8eebdfdefa7957af0fd74e4b1d4f14938133e626
         }
     }
 }
