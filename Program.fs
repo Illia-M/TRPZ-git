@@ -25,3 +25,4 @@ module Program =
         CreateHostBuilder(args).Build().Run()
 
         exitCode
+Max_Vavryniuk
