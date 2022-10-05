@@ -43,7 +43,7 @@ namespace TRPZ2
             lb1.Items.Add("Vladimir Fokow");
             lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Oleksii Kravchenko");
-            lb1.Items.Add("Volodymyr Tolubko");
+            lb1.Items.Add("Volodymyr Tolubko");    
         }
     }
 }
