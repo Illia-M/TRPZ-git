@@ -27,9 +27,9 @@ namespace TRPZ2
 
             lb1.Items.Add("Karyna Sobkovska");
 
+            lb1.Items.add("Volodymyr Yakymenko");
 
-
-	        lb1.Items.Add("Denys Grynenko");
+            lb1.Items.Add("Denys Grynenko");
 		    lb1.Items.Add("Yevhenii Borysenko");
 		    lb1.Items.Add("Max Vavryniuk");
 	        lb1.Items.Add("Volodymyr Danchuk");
@@ -43,9 +43,7 @@ namespace TRPZ2
             lb1.Items.Add("Vladimir Fokow");
             lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Oleksii Kravchenko");
-            lb1.Items.Add("Volodymyr Tolubko");
-
-            lb1.Items.add("Volodymyr Yakymenko");
+            lb1.Items.Add("Volodymyr Tolubko");    
         }
     }
 }
