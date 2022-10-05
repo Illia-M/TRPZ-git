@@ -12,7 +12,6 @@ namespace TRPZ2
         public MainWindow()
         {
             InitializeComponent();
-		lb1.Items.Add("Volodymyr Yakymenko");
             lb1.Items.Add("Anna Heleshko");
 
             lb1.Items.Add("Stas Logvynskyi");
@@ -44,8 +43,9 @@ namespace TRPZ2
             lb1.Items.Add("Vladimir Fokow");
             lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Oleksii Kravchenko");
-
             lb1.Items.Add("Volodymyr Tolubko");
+
+            lb1.Items.add("Volodymyr Yakymenko");
         }
     }
 }
