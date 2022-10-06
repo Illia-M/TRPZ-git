@@ -27,6 +27,7 @@ namespace TRPZ2
         }
     }
 }
+<<<<<<< HEAD
 
             lb1.Items.Add("Stas Logvynskyi");
             lb1.Items.Add("Oleksiy Okorokov");
@@ -63,3 +64,5 @@ namespace TRPZ2
     }
 }
 
+=======
+>>>>>>> e2bb953cc81ca8d21664268c5acb801257719e9a
