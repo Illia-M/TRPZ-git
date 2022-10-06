@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿<Window x:Class="MainWindow"
+=======
+﻿<Window x:Class="TRPZ2.MainWindow"
+>>>>>>> ce58367acdd082dd3b2bd397325855e61becf707
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -6,10 +10,16 @@
         xmlns:local="clr-namespace:TRPZ2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+<<<<<<< HEAD
     <Grid Loaded="Grid_Loaded">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <ListBox Name="listBox1" HorizontalAlignment="Center" Height="414" VerticalAlignment="Center" Width="780" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+=======
+    <Grid>
+        <ListBox Name="lb1" />
+
+>>>>>>> ce58367acdd082dd3b2bd397325855e61becf707
     </Grid>
 </Window>
