@@ -11,5 +11,6 @@
         listBox1.Items.Add("Danchuk Volodymyr")
         listBox1.Items.Add("Volodymyr Yakymenko")
         listBox1.Items.Add("Volodymyr Tolubko")
+        listBox1.Items.Add("Oleksiy Kravchenko")
     End Sub
 End Class
