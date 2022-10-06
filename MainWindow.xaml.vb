@@ -3,5 +3,6 @@
         listBox1.Items.Add("Mykola Kutsyk")
         listBox1.Items.Add("Vadim Kostyanko")
         listBox1.Items.Add("Daniil Zhdanov")
+	    listBox1.Items.Add("Vitalii Panchenko")
     End Sub
 End Class
