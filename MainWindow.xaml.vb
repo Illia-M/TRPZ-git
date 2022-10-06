@@ -20,6 +20,7 @@ Class MainWindow
 
 	listBox1.Items.Add("Volodymyr Danchuk")
         listBox1.Items.Add("Oleksiy Kravchenko")
+        listBox1.Items.Add("Dmytro Tkachenko")
 
     End Sub
 End Class
