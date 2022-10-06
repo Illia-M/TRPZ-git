@@ -5,7 +5,11 @@
         listBox1.Items.Add("Vadim Kostyanko2")
         listBox1.Items.Add("Vadim Prohorchuk")
         listBox1.Items.Add("Daniil Zhdanov")
+<<<<<<< HEAD
 	listBox1.Items.Add("Vitalii Panchenko")
+=======
+        listBox1.Items.Add("Vitalii Panchenko")
+>>>>>>> f98d4b0bc6e9ec705cc42b01eb5d87e4b7c543f2
         listBox1.Items.Add("Volodymyr Sharkovskyi")
         listBox1.Items.Add("Vitalii Panchenko")
 <<<<<<< HEAD
