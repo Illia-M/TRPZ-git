@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 ﻿using System.Windows;
-=======
 
 using System.Windows;
 
->>>>>>> 1c6fd8d510d8eb7aeb8c4d4e55c9bef8ed6b958f
 
 namespace TRPZ2
 {
@@ -17,7 +14,6 @@ namespace TRPZ2
         {
             InitializeComponent();
             lb1.Items.Add("Anna Heleshko");
-<<<<<<< HEAD
             lb1.Items.Add("Stas Logvynskyi");
             lb1.Items.Add("Oleksiy Okorokov");
             lb1.Items.Add("Dmitrii Nieliepin");
@@ -31,7 +27,6 @@ namespace TRPZ2
         }
     }
 }
-=======
 
             lb1.Items.Add("Stas Logvynskyi");
             lb1.Items.Add("Oleksiy Okorokov");
@@ -62,9 +57,9 @@ namespace TRPZ2
             lb1.Items.Add("Vladimir Fokow");
             lb1.Items.Add("Yevhenii Borysenko");
             lb1.Items.Add("Oleksii Kravchenko");
-            lb1.Items.Add("Volodymyr Tolubko");    
+            lb1.Items.Add("Volodymyr Tolubko"); 
+            lb1.Items.Add("Aleksandrov Oleg");     
         }
     }
 }
 
->>>>>>> 1c6fd8d510d8eb7aeb8c4d4e55c9bef8ed6b958f
