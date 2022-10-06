@@ -19,7 +19,6 @@ Class MainWindow
         listBox1.Items.Add("Volodymyr Tolubko")
 
 	listBox1.Items.Add("Volodymyr Danchuk")
-        listBox1.Items.Add("Oleksiy Kravchenko")
-
+listBox1.Items.Add("Oleksiy Kravchenko")
     End Sub
 End Class
