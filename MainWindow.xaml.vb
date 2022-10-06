@@ -17,12 +17,10 @@ Class MainWindow
         listBox1.Items.Add("Yaroslav Andrushchenko")
 
         listBox1.Items.Add("Volodymyr Tolubko")
-<<<<<<< HEAD
 
-=======
         listBox1.Items.Add("Oleksiy Kravchenko")
->>>>>>> 8d279a3478d9df93e6bcdca15cc3ec266fa5efcb
 	listBox1.Items.Add("Volodymyr Danchuk")
+	    listBox1.Items.Add("Olia Derkach")
 
     End Sub
 End Class
