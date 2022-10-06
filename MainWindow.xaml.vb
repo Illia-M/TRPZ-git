@@ -5,9 +5,12 @@
         listBox1.Items.Add("Vadim Kostyanko2")
         listBox1.Items.Add("Vadim Prohorchuk")
         listBox1.Items.Add("Daniil Zhdanov")
-	    listBox1.Items.Add("Vitalii Panchenko")
+        listBox1.Items.Add("Vitalii Panchenko")
         listBox1.Items.Add("Volodymyr Sharkovskyi")
         listBox1.Items.Add("Vitalii Panchenko")
+        listBox1.Items.Add("Volodymyr Yakymenko")
+        listBox1.Items.Add("Volodymyr Tolubko")
+        listBox1.Items.Add("Volodymyr Danchuk")
         listBox1.Items.Add("Yaroslav Andrushchenko")
     End Sub
 End Class
