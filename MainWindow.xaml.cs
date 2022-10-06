@@ -45,7 +45,8 @@ namespace TRPZ2
             lb1.Items.Add("Oleksii Kravchenko");
             lb1.Items.Add("Volodymyr Tolubko");
             
-            lb1.Items.Add("Olia Derkach");    
+            lb1.Items.Add("Olia Derkach");   
+            lb1.Items.Add("Oleg Aleksandrov"); 
         }
     }
 }
