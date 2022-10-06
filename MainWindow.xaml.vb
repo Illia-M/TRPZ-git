@@ -10,7 +10,6 @@
         listBox1.Items.Add("Vitalii Panchenko")
         listBox1.Items.Add("Danchuk Volodymyr")
         listBox1.Items.Add("Volodymyr Yakymenko")
-        listBox1.Items.Add("Yaroslav Andrushchenko")
         listBox1.Items.Add("Volodymyr Tolubko")
     End Sub
 End Class
