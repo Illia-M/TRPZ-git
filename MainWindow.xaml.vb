@@ -8,5 +8,6 @@
 	    listBox1.Items.Add("Vitalii Panchenko")
         listBox1.Items.Add("Volodymyr Sharkovskyi")
         listBox1.Items.Add("Vitalii Panchenko")
+        listBox1.Items.Add("Yaroslav Andrushchenko")
     End Sub
 End Class
