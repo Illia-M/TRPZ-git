@@ -1,4 +1,4 @@
-﻿Class MainWindow
+Class MainWindow
     Private Sub Grid_Loaded(sender As Object, e As RoutedEventArgs)
         listBox1.Items.Add("Mykola Kutsyk")
         listBox1.Items.Add("Vadim Kostyanko")
@@ -8,8 +8,8 @@
         listBox1.Items.Add("Vitalii Panchenko")
         listBox1.Items.Add("Volodymyr Sharkovskyi")
         listBox1.Items.Add("Vitalii Panchenko")
-        listBox1.Items.Add("Danchuk Volodymyr")
         listBox1.Items.Add("Volodymyr Yakymenko")
         listBox1.Items.Add("Volodymyr Tolubko")
+	listBox1.Items.Add("Volodymyr Danchuk")
     End Sub
 End Class
