@@ -8,6 +8,7 @@ Class MainWindow
 	    listBox1.Items.Add("Vitalii Panchenko")
         listBox1.Items.Add("Volodymyr Sharkovskyi")
         listBox1.Items.Add("Vitalii Panchenko")
-	listBox1.Items.Add("Danchuk Volodymyr")
+        listBox1.Items.Add("Danchuk Volodymyr")
+        listBox1.Items.Add("Volodymyr Yakymenko")
     End Sub
 End Class
