@@ -1,6 +1,5 @@
 Class MainWindow
     Private Sub Grid_Loaded(sender As Object, e As RoutedEventArgs)
-<<<<<<< Updated upstream
         listBox1.Items.Add("Mykola Kutsyk")
         listBox1.Items.Add("Vadim Kostyanko")
         listBox1.Items.Add("Vadim Kostyanko2")
@@ -10,8 +9,5 @@ Class MainWindow
         listBox1.Items.Add("Volodymyr Sharkovskyi")
         listBox1.Items.Add("Vitalii Panchenko")
 	listBox1.Items.Add("Danchuk Volodymyr")
-=======
-        listBox1.Items.Add("Volodymyr Tolubko")
->>>>>>> Stashed changes
     End Sub
 End Class
