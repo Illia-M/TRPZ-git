@@ -8,11 +8,7 @@ print("Hello World\n");
 print("FirstName LastName\n");
 print("Diana Kornieieva\n");
 print("Sophiia Liemieshova\n");
-
-
 print("Karyna Sobkovska\n");
-
-
 print("Olexandr Opalatenko\n");
 print("Kondrashchenko Vadim\n");
 
