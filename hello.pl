@@ -9,7 +9,14 @@ print("Diana Kornieieva\n");
 print("Sophiia Liemieshova\n");
 print("Karyna Sobkovska\n");
 print("Yehor Titov\n");
-print("Olexandr Opalatenko\n");
-print("Kondrashchenko Vadim\n");
-print("Kiselevych Anton\n");
+
+
+print("FirstName LastName\n");
+print("Opalatemko Olexandr\n");
+print("Sophiia Liemieshova\n");
+print("Yehor Titov\n");
+
+print("Karyna Sobkovska\n");
+
+
 
