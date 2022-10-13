@@ -28,6 +28,7 @@ type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
 			"19. Olexandr Opalatenko"
 			"17. Dmytro Brahar"
             "21. Yehor Kukharchuk"
+            "11. Kiselevych Anton"
 			
         |]
 
