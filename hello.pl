@@ -21,5 +21,3 @@ print("Karyna Sobkovska\n");
 
 
 
-print("Kiselevych Anton\n");
-
