@@ -4,6 +4,7 @@ use strict;
 use warnings;
 
 print("Hello World\n");
+ 
 print("FirstName LastName\n");
  
 print("Diana Kornieieva\n");
@@ -19,10 +20,15 @@ print("Olexandr Opalatenko\n");
 
 print("FirstName LastName\n");
 print("Karyna Sobkovska\n");
+print("Kondrashchenko Vadim\n");
 
 
 
+ 
 
 print("Oleksandra Davydova\n");
 print("Karyna Sobkovska\n");
+
+print("Kiselevych Anton\n");
+ 
 
