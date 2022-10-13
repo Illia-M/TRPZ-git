@@ -5,5 +5,4 @@ use warnings;
 
 print("Hello World\n");
 print("Kondrashchenko Vadim");
-print("Sophiia Liemieshova");
 
