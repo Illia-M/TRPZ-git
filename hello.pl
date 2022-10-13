@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 print("Hello World\n");
-<<<<<<< HEAD
+
 print("FirstName LastName\n");
 print("Diana Kornieieva\n");
 print("Sophiia Liemieshova\n");
