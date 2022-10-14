@@ -1,4 +1,4 @@
-Class MainWindow
+﻿Class MainWindow
     Private Sub Grid_Loaded(sender As Object, e As RoutedEventArgs)
         listBox1.Items.Add("Mykola Kutsyk")
         listBox1.Items.Add("Vadim Kostyanko")
@@ -17,13 +17,5 @@ Class MainWindow
         listBox1.Items.Add("Yaroslav Andrushchenko")
 
         listBox1.Items.Add("Volodymyr Tolubko")
-
-        listBox1.Items.Add("Oleksiy Kravchenko")
-	listBox1.Items.Add("Volodymyr Danchuk")
-        listBox1.Items.Add("Dmytro Tkachenko")
-        listBox1.Items.Add("Olia Derkach")
-
-        listBox1.Items.Add("Volodymyr Yalymenko")
-
     End Sub
 End Class
