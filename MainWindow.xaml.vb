@@ -17,5 +17,7 @@
         listBox1.Items.Add("Yaroslav Andrushchenko")
 
         listBox1.Items.Add("Volodymyr Tolubko")
+        listBox1.Items.Add("Oleksii Kravchenko")
+        
     End Sub
 End Class
