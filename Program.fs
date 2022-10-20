@@ -25,7 +25,10 @@ let main argv =
 
     let student3 = from "#3 Dmytro Brahar"
     printfn "Hello %s" student3
+
+
     let student14 = from "#14 Yehor Kukharchuk"
     printfn "Hello %s" student14
+
 
     0 // return an integer exit code
