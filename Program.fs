@@ -10,7 +10,10 @@ let from whom =
 let main argv =
     let message = from "F#" // Call the function
     let student = from "#1 FirstName LastName" // Call the function
-    let student = from "#1 Egor Titov" // Call the function
+
+
+    let student25 = from "#1 Egor Titov" // Call the function
+
     printfn "Hello world %s" message
     printfn "Hello %s" student
     0 // return an integer exit code
