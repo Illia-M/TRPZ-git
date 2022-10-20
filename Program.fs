@@ -23,8 +23,8 @@ let main argv =
     let student2 = from "#2 Oleksandra Davydova"
     printfn "Hello %s" student2
 
-    let student3 = from "#3 Dmytro Brahar"
-    printfn "Hello %s" student3
+    let student4 = from "#4 Dmytro Brahar"
+    printfn "Hello %s" student4
 
 
     let student14 = from "#14 Yehor Kukharchuk"
