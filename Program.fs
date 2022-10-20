@@ -9,8 +9,11 @@ let from whom =
 [<EntryPoint>]
 let main argv =
     let message = from "F#" // Call the function
-    let student = from "#1 FirstName LastName" // Call the function
-    let student = from "#1 Egor Titov" // Call the function
+
+    let student = from "#1 FirstName LastName" 
+// Call the function
+ let studentK = from "#23 Karyna Sobkovska"
+    let student25 = from "#1 Egor Titov" // Call the function
     printfn "Hello world %s" message
     printfn "Hello %s" student
 
