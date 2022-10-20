@@ -14,6 +14,9 @@ let main argv =
 // Call the function
  let studentK = from "#23 Karyna Sobkovska"
     let student25 = from "#1 Egor Titov" // Call the function
+    let student635 = from "#1 Gorb Daryna" // Call the function
+    printfn "Hello %s" student635
+
     printfn "Hello world %s" message
     printfn "Hello %s" student
 
