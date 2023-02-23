@@ -1,0 +1,8 @@
+Imports System
+
+Module Program
+    Sub Main(args As String())
+        Console.WriteLine("Hello World!")
+        Console.WriteLine("Artur_Deundyak")
+    End Sub
+End Module
