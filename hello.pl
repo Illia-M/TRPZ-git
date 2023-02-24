@@ -17,3 +17,4 @@ print("Andrew Kovalchuk\n");
 print("Roman Denysiuk\n");
 print("Dania Holovach\n");
 print("Prokopishyn Oleksii\n");
+print("Gabrys Oleksii\n");
