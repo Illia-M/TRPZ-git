@@ -18,3 +18,4 @@ print("Roman Denysiuk\n");
 print("Dania Holovach\n");
 print("Masha Larina\n");
 print("Prokopishyn Oleksii\n");
+print("Gabris Oleksii\n");
