@@ -16,4 +16,8 @@ print("Leonid Oliinyk\n");
 print("Andrew Kovalchuk\n");
 print("Roman Denysiuk\n");
 print("Dania Holovach\n");
+<<<<<<< HEAD
 print("Masha Larina\n");
+=======
+print("Prokopishyn Oleksii\n");
+>>>>>>> 5b821a09f7fab0e17a3322d0e745107e698e0dc6
