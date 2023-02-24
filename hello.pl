@@ -4,4 +4,4 @@ use strict;
 use warnings;
 
 print("Hello World\n");
-print("Sergiy Reshetnyak\n");
+print("Kateryna Zhayvoronok\n");
