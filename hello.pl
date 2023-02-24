@@ -13,3 +13,4 @@ print("Nazar Udod\n");
 print("Shakhov Vasyl\n");
 print("Maxym Shapoval\n");
 print("Leonid Oliinyk\n");
+print("Andrew Kovalchuk\n");
