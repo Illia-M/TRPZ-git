@@ -2,5 +2,6 @@ object HelloWorld {
   def main(args: Array[String]): Unit = {
     println("Hello, World!")
     println("Illia Maier")
+    println("Maxim Ovdiienko")
   }
 }
