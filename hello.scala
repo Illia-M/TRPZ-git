@@ -8,17 +8,9 @@ object HelloWorld {
     println("Artur Deundyak")
     println("Illia Maier")
     println("Maxim Ovdiienko")
-    
-
-    
-    
-
-
-
     println("Vladyslav Liubashenko!")
     println("Iryna Stankova")
     println("Victor_Shafranov")
-    println("Katya Myronets")
-     println("Katya Myronets")
+    println("Katya Myronets") 
   }
 }
