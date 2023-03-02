@@ -21,3 +21,4 @@ print("Prokopishyn Oleksii\n");
 print("Gabris Oleksii\n");
 print("Lemish Maxim\n");
 print("Nikita Rahmanov\n")
+print("Lesia Vashchyshyna\n")
