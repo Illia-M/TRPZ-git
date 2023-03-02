@@ -20,5 +20,6 @@ print("Masha Larina\n");
 print("Prokopishyn Oleksii\n");
 print("Gabris Oleksii\n");
 print("Lemish Maxim\n");
-print("Nikita Rahmanov\n")
-print("Lesia Vashchyshyna\n")
+print("Nikita Rahmanov\n");
+print("Ann Shvetsova \n");
+print("Lesia Vashchyshyna\n");
