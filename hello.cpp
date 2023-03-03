@@ -8,4 +8,5 @@ int main()
     cout << "Vadym Fil" << endl;
     cout << "Vasyl Shakhov" << endl;
     cout << "Julia_Barna" << endl;
+    cout << "Sergiy_Reshetnyak" << endl;
 }
