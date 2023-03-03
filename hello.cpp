@@ -12,10 +12,10 @@ int main()
     cout << "Andrew_Kovalchuk" << endl;
     cout << "Koval Yaroslav" << endl;
     cout << "Denys Mamchyk" << endl;
-    cout << "Nazar Udod" << endl;
     cout << "Mandrika Vitalii" << endl;
     cout << "Vladislava Figol" << endl;
     cout << "Mokliuk Maxym" << endl;
     cout << "Leonid Oliinyk" << endl;
     cout << "Maxym Shapoval" << endl;
+    cout << "Nazar Udod" << endl;
 }
