@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "FirstName LastName" << endl;
+    cout << "Julia_Barna" << endl;
 }
