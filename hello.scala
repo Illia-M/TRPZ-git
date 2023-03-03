@@ -14,6 +14,7 @@ object HelloWorld {
     println("Victor_Shafranov")
     println("Oleksii_Gabrys")
     println("Pavlo Ovsyuk!")
+    println("Yaroslav Dobrytskiy!")
 
   }
 }
