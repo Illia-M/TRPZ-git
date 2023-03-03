@@ -16,4 +16,5 @@ int main()
     cout << "Nazar Udod" << endl;
     cout << "Mandrika Vitalii" << endl;
     cout << "Vladislava Figol" << endl;
+    cout << "Maxym Shapoval" << endl;
 }
