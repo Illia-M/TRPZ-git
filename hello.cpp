@@ -12,6 +12,8 @@ int main()
     cout << "Andrew_Kovalchuk" << endl;
     cout << "Mokliuk Maxym" << endl;
     cout << "Denys Mamchyk" << endl;
+    cout << "Nazar Udod" << endl;
 }
     cout << "Vladislava Figol" << endl;
+
 }
