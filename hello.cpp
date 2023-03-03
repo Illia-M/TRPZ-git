@@ -9,4 +9,5 @@ int main()
     cout << "Vasyl Shakhov" << endl;
     cout << "Julia_Barna" << endl;
     cout << "Sergiy_Reshetnyak" << endl;
+    cout << "Mokliuk_Maxym" << endl;
 }
