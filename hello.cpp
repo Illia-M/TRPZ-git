@@ -7,4 +7,5 @@ int main()
     cout << "Oleksii_Gabris" << endl;
     cout << "Vadym Fil" << endl;
     cout << "Julia_Barna" << endl;
+    cout << "Sergiy_Reshetnyak" << endl;
 }
