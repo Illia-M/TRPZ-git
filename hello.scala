@@ -6,6 +6,7 @@ object HelloWorld {
     println("Illia Maier")
     println("Maxim Ovdiienko")
     println("Vladyslav Liubashenko!")
+    println("Pavlo Ovsyuk!")
 
 
   }
