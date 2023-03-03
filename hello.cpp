@@ -10,4 +10,5 @@ int main()
     cout << "Julia_Barna" << endl;
     cout << "Sergiy_Reshetnyak" << endl;
     cout << "Andrew_Kovalchuk" << endl;
+    cout << "Mokliuk Maxym" << endl;
 }
