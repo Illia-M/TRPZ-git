@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Immutable;
 
 public class StudentsProvider
@@ -27,6 +27,7 @@ public class StudentsProvider
                     new Student("Bogdan", "Gilevich"),
                     new Student("Kirill", "Nesterenko"),
                     new Student("Yana", "Pron"),
+                    new Student("Yaroslav", "Dobrutskiy"),
                 }.ToImmutableList() },
             }
         .ToImmutableDictionary();
