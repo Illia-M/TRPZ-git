@@ -13,8 +13,7 @@ namespace TRPZ_git
             {
                 { new GroupNumber("IC-21"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-22"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
-                { new GroupNumber("IC-23"), new[]{new Student("Katya", "Myronets"), new Student("Artem", "Leschenko"), new Student("Pavlo", "Ovsyuk") }.ToImmutableList() },
-
+                { new GroupNumber("IC-23"), new[]{new Student("Katya", "Myronets"), new Student("Artem", "Leschenko"), new Student("Pavlo", "Ovsyuk"), new Student("Bogdan", "Gilevich") }.ToImmutableList() },
             }
             .ToImmutableDictionary();
         }
