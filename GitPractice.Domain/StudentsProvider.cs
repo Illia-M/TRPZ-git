@@ -10,7 +10,7 @@ public class StudentsProvider
         _students = new Dictionary<GroupNumber, ImmutableList<Student>>()
             {
                 { new GroupNumber("IC-21"), new[]{
-                    new Student("FirstName", "LastName"),
+                    new Student("Artem", "Liakh"),
                 }.ToImmutableList() },
                 { new GroupNumber("IC-22"), new[]{
                     new Student("Maxym", "Shapoval"),
