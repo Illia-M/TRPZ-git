@@ -29,4 +29,5 @@ int main()
     cout << "Sofia Melnyk" << endl;
     cout << "Natalia Petrovych" << endl;
     cout << "Artem Liakh IC-21" << endl;
+    cout << "Oleksii Prokopishyn" << endl;
 }
