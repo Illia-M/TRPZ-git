@@ -30,4 +30,5 @@ int main()
     cout << "Natalia Petrovych" << endl;
     cout << "Artem Liakh IC-21" << endl;
     cout << "Oleksii Prokopishyn" << endl;
+    cout << "Nikita Rahmanov" << endl;
 }
