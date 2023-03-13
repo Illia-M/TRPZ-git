@@ -20,6 +20,7 @@ public class StudentsProvider
                     new Student("Hai", "Dmytro"),
                     new Student("Daria", "Polishchuk"),
                     new Student("Andrew", "Kachalov"),
+                    new Student("Bohdan", "Zaskaleta"),
 
 
 
