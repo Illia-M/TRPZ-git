@@ -21,10 +21,11 @@ public class StudentsProvider
                     new Student("Daria", "Polishchuk"),
                     new Student("Andrew", "Kachalov"),
                     new Student("Bohdan", "Zaskaleta"),
-                  new Student("Yevhenii","Ihnatkin"),
+                    new Student("Yevhenii","Ihnatkin"),
                     new Student("Sofia","Bielchik"),
                     new Student("Artem","Vinnytskyi"),
-        new Student("Anatoliy", "Adamenko"),
+                    new Student("Anatoliy", "Adamenko"),
+                    new Student("Alina", "Tokarska"),
 
 
                 }.ToImmutableList() },
