@@ -62,6 +62,7 @@ public class StudentsProvider
                     new Student("Dmytro", "Nifontov"),
                     new Student("Vadim", "Matok"),
                     new Student("Artem","Matok"),
+                    new Student("Illya","Rak"),
                 }.ToImmutableList() },
             }
         .ToImmutableDictionary();
