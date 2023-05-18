@@ -23,4 +23,4 @@ print("Lemish Maxim\n");
 print("Nikita Rahmanov\n");
 print("Ann Shvetsova \n");
 print("Lesia Vashchyshyna\n");
-print("Mykyta Honcharov\n");
+print("Mykyta Honcharov \n");
