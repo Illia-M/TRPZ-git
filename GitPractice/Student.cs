@@ -1,4 +1,4 @@
-﻿public class Student
+﻿public record Student
 {
     public Student(string firstName, string lastName)
     {
