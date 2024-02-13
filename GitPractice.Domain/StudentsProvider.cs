@@ -9,13 +9,16 @@ namespace TRPZ_git
 
         public StudentsProvider()
         {
+            
             _students = new Dictionary<GroupNumber, ImmutableList<Student>>()
             {
-                { new GroupNumber("IC-31"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
+                { new GroupNumber("IC-31"), new[]{new Student("Nikita", "Nikita") }.ToImmutableList() },
                 { new GroupNumber("IC-32"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-33"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-34"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
             }
+
+            
             .ToImmutableDictionary();
         }
     }
