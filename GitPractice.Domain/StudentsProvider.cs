@@ -11,7 +11,7 @@ namespace TRPZ_git
         {
             _students = new Dictionary<GroupNumber, ImmutableList<Student>>()
             {
-                { new GroupNumber("IC-31"), new[]{new Student("Oleksandr", "Sychov"), new Student("Mikita", "Kalachuk"),new Student("Oleh", "Lobko") }.ToImmutableList(), new Student("Artem", "Rusachenko") }.ToImmutableList() },
+                { new GroupNumber("IC-31"), new[]{new Student("Oleksandr", "Sychov"), new Student("Mikita", "Kalachuk"),new Student("Oleh", "Lobko"), new Student("Artem", "Rusachenko") }.ToImmutableList() },
                 { new GroupNumber("IC-32"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-33"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-34"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
