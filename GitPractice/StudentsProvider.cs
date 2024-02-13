@@ -18,7 +18,8 @@ public class StudentsProvider
                     new Student("Korotaiev", "Mykhailo"),
                     new Student("Driuk", "Vladyslav"),
                     new Student("Sofia", "Mykhailova"),
-                    new Student("Nikita","Uzhakov")
+                    new Student("Nikita","Uzhakov"),
+                    new Student("Roman","Danuliyk")
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-32"), new[]
