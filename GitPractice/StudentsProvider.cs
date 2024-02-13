@@ -17,6 +17,7 @@ public class StudentsProvider
                     new Student("Artem", "Rusachenko"),
                     new Student("Korotaiev", "Mykhailo"),
                     new Student("Driuk", "Vladyslav"),
+                    new Student("Artem", "Sychov"),
                     new Student("Sofia", "Mykhailova"),
                     new Student("Nikita","Uzhakov"),
                     new Student("Yarslov","Shafinsky")
