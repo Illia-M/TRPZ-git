@@ -21,7 +21,8 @@ namespace TRPZ_git
                 { new GroupNumber("IC-32"), new[]{
                   new Student("Dmytro", "Shlikhanov"), 
                   new Student("Olexandr", "Zhovmir"), 
-                  new Student("Yuriy", "Cherepnya")
+                  new Student("Yuriy", "Cherepnya"),
+                  new Student("Ihor", "Panchenko")
                 }.ToImmutableList() },
                 { new GroupNumber("IC-33"), new[]{
                   new Student("FirstName", "LastName")
