@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Immutable;
 
 namespace TRPZ_git
@@ -11,13 +11,19 @@ namespace TRPZ_git
         {
             _students = new Dictionary<GroupNumber, ImmutableList<Student>>()
             {
-                { new GroupNumber("IC-31"), new[]{
-                  new Student("Oleksandr", "Sychov"), 
+                { 
+                  new GroupNumber("IC-31"), new[]{
+                  new Student("Oleksandr", "Sychov"),
                   new Student("Mikita", "Kalachuk"),
-                  new Student("Oleh", "Lobko"), 
+                  new Student("Oleh", "Lobko"),
                   new Student("Illia", "Shmyhelskyi"),
                   new Student("Artem", "Rusachenko"),
-                  new Student("Anastasia", "Danskaya")
+                  new Student("Korotaiev", "Mykhailo"),
+                  new Student("Driuk", "Vladyslav"),
+                  new Student("Sofia", "Mykhailova"),
+                  new Student("Nikita","Uzhakov"),
+                  new Student("Yarslov","Shafinsky"),
+                  new Student("Danska","Anastasiya")
 
                 }.ToImmutableList() },
                 { new GroupNumber("IC-32"), new[]{
