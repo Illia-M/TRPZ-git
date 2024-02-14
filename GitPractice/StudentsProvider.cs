@@ -33,24 +33,23 @@ public class StudentsProvider
                     new Student("Yuriy", "Cherepnya"),
                     new Student("Oleksandr", "Rudenko"),
                     new Student("Maksym", "Zarytskyi"),
-                    new Student("Ihor", "Panchenko"),
-                    new Student("Dariia", "Plieshkova")
+                    new Student("Ihor", "Panchenko")
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-33"), new[]
                     {
+
+                    new Student("FirstName", "LastName"),
                     new Student("Lipovok", "Kyrylo"),
                     new Student("Eduard", "Mikhrin")
+
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-34"), new[]
                     {
                     new Student("FirstName", "LastName"),
-
-
-
-
-                    new Student("Andrew", "Shved")
+                    new Student("Yaroslav", "Lenchenko"),
+                    new Student("Andrew","Shved")
                     }.ToImmutableList()
                 },
             }
