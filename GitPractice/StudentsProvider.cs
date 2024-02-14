@@ -40,6 +40,7 @@ public class StudentsProvider
                     {
 
                     new Student("FirstName", "LastName"),
+                    new Student("Vladyslav", "Zhukov"),
                     new Student("Lipovok", "Kyrylo"),
                     new Student("Eduard", "Mikhrin")
 
