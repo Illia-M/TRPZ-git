@@ -1,4 +1,4 @@
-﻿using System.Collections.Immutable;
+using System.Collections.Immutable;
 
 public class StudentsProvider
 {
@@ -16,18 +16,20 @@ public class StudentsProvider
                     new Student("Illia", "Shmyhelskyi"),
                     new Student("Artem", "Rusachenko"),
                     new Student("Anastasia", "Savenko"),
-                    new Student("Korotaiev", "Mykhailo"),
                     new Student("Vladyslav", "Driuk"),
                     new Student("Sofia", "Mykhailova"),
                     new Student("Nikita","Uzhakov"),
                     new Student("Violetta","Rebrova"),
-                    new Student("Yarslov","Shafinsky"),
+                    new Student("Yaroslav","Shafinsky"),
                     new Student("Anastasia","Danskaya"),
                     new Student("Roman","Danuliyk"),
-                    new Student("Voloshyn","Artem"),
                     new Student("Maksym","Harmash"),
-                    new Student("Koval", "Bohdan"),
-                    new Student("Mykhailo", "Korotaiev")
+                    new Student("Bohdan", "Koval"),
+                    new Student("Andrii", "Shevchuk"),
+                    new Student("Mykhailo", "Korotaiev"),
+                    new Student("Artem", "Voloshyn"),
+                    new Student("Dmytro", "Belousov"),
+                    new Student("Dmytro","Statkevych"),
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-32"), new[]
@@ -49,18 +51,28 @@ public class StudentsProvider
                 },
                 { new GroupNumber("IC-33"), new[]
                     {
+                    new Student("Varvara", "Kalenichenko"),
                     new Student("Lipovok", "Kyrylo"),
                     new Student("Eduard", "Mikhrin"),
                     new Student("Vladyslav", "Zhukov"),
-                    new Student("Kateryna","Tarasenko")
+                    new Student("Kateryna","Tarasenko"),
+                    new Student("Oleg", "Domozhilkin"),
+                    new Student("Maksym", "Litynskyi")
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-34"), new[]
                     {
+                    new Student("Diana", "Romaniuk"),
                     new Student("Yaroslav", "Lenchenko"),
                     new Student("Dmytro", "Sytnyk"),
                     new Student("Artem", "Russu"),
                     new Student("Alex", "Hezha"),
+                    new Student("Vlad", "Pohorilets"),
+                    new Student("Liudmyla", "Perekhrest"),
+                    new Student("Mykyta","Pedko"),
+                    new Student("Kostiantyn", "Tkachov"),
+                    new Student("Mariia", "Zozulia"),
+                    new Student("Daryna","Shnaider"),
                     new Student("Oleksandra", "Yashchenko")
                     }.ToImmutableList()
                 },
