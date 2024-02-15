@@ -1,4 +1,4 @@
-﻿using System.Collections.Immutable;
+using System.Collections.Immutable;
 
 public class StudentsProvider
 {
@@ -28,7 +28,8 @@ public class StudentsProvider
                     new Student("Andrii", "Shevchuk"),
                     new Student("Mykhailo", "Korotaiev"),
                     new Student("Artem", "Voloshyn"),
-                    new Student("Dmytro", "Belousov")
+                    new Student("Dmytro", "Belousov"),
+                    new Student("Dmytro","Statkevych"),
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-32"), new[]
@@ -61,7 +62,6 @@ public class StudentsProvider
                 },
                 { new GroupNumber("IC-34"), new[]
                     {
-
                     new Student("Diana", "Romaniuk"),
                     new Student("Yaroslav", "Lenchenko"),
                     new Student("Dmytro", "Sytnyk"),
@@ -73,7 +73,6 @@ public class StudentsProvider
                     new Student("Kostiantyn", "Tkachov"),
                     new Student("Mariia", "Zozulia"),
                     new Student("Daryna","Shnaider")
-
                     }.ToImmutableList()
                 },
             }
