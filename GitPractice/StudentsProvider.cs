@@ -22,6 +22,8 @@ public class StudentsProvider
                     new Student("Violetta","Rebrova"),
                     new Student("Yaroslav","Shafinsky"),
                     new Student("Anastasia","Danskaya"),
+                    new Student("Voloshyn","Artem"),
+                    new Student("Anastasiya","Nepron"),
                     new Student("Roman","Danuliyk"),
                     new Student("Maksym","Harmash"),
                     new Student("Bohdan", "Koval"),
@@ -46,7 +48,7 @@ public class StudentsProvider
                     new Student("Artem", "Reutenko"),
                     new Student("Vladyslav", "Kiselar"),
                     new Student("Katya", "Linnyk"),
-                    new Student("Valeriia", "Kovaliuk"),
+                    new Student("Valeriia", "Kovaliuk")
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-33"), new[]
