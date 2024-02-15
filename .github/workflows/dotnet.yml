@@ -1,0 +1,26 @@
+name: .NET
+
+on:
+  push:
+    branches: [ stream/IC-3x ]
+  pull_request:
+    branches: [ stream/IC-3x ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1.8.1
+      with:
+        dotnet-version: 8.0.x
+        include-prerelease: true
+    - name: Restore dependencies
+      run: dotnet restore GitPractice.sln
+    - name: Build
+      run: dotnet build GitPractice.sln --no-restore
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
