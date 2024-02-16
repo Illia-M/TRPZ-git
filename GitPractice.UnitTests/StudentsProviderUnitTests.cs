@@ -38,4 +38,17 @@ public class StudentsProviderUnitTests
 
         Assert.Distinct(studentsRegistry.GetAll().Where(s => s != defaultStudent));
     }
+
+    [Fact]
+    public void NoDuplicatesWithFirstNameSameAsLastName()
+    {
+        var studentsProvider = new StudentsProvider();
+        var studentsRegistry = new StudentsRegistry(studentsProvider.Students);
+        var allStudents = studentsRegistry.GetAll();
+
+        foreach (var s in allStudents)
+        {
+            Assert.DoesNotContain(allStudents, x => x.LastName == s.FirstName && x.FirstName == s.LastName);
+        }
+    }
 }
