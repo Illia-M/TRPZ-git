@@ -90,6 +90,7 @@ public class StudentsProvider
                     new Student("Veronika", "Honcharenko"),
                     new Student("Artem","Kudryavtsev"),
                     new Student("Bogdana","Mosiyevich"),
+                    new Student("Denys", "Maiko"),
                     new Student("Bohdan","Kovalenko"),
 
 
