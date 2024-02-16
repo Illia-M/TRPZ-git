@@ -24,7 +24,6 @@ public class StudentsProvider
                     new Student("Violetta","Rebrova"),
                     new Student("Yaroslav","Shafinsky"),
                     new Student("Anastasia","Danskaya"),
-                    new Student("Voloshyn","Artem"),
                     new Student("Anastasiya","Nepron"),
                     new Student("Roman","Danuliyk"),
                     new Student("Maksym","Harmash"),
