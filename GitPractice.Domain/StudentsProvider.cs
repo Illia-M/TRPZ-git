@@ -15,7 +15,6 @@ namespace TRPZ_git
                 { new GroupNumber("IC-32"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-33"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
                 { new GroupNumber("IC-34"), new[]{new Student("FirstName", "LastName") }.ToImmutableList() },
-                { new GroupNumber("IC-31"), new[]{new Student("Kateryna", "Soloviova") }.ToImmutableList() },
             }
             .ToImmutableDictionary();
         }
