@@ -79,7 +79,7 @@ public class StudentsProvider
                     new Student("Nazar", "Putilovskyi"),
                     new Student("Tymofii", "Stepanchuk"),
                     new Student("Maria", "Yakymchuk"),
-                    new Student("Gorobiuk", "Liubomyr"),
+                    new Student("Liubomyr", "Gorobiuk"),
                     new Student("Yehor", "Sabadash"),
                     new Student("Dariia", "Khomenko"),
                     new Student("Andrii", "Humyniuk")
