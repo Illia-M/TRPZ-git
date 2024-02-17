@@ -57,15 +57,9 @@ public class StudentsProvider
                 },
                 { new GroupNumber("IC-33"), new[]
                     {
-<<<<<<< HEAD
-
-                    new Student("FirstName", "LastName"),
-                    new Student("Kyrylo", "Lipovok"),
-                    new Student("Eduard", "Mikhrin")
-=======
                     new Student("Anastasiia", "Babenko"),
                     new Student("Varvara", "Kalenichenko"),
-                    new Student("Lipovok", "Kyrylo"),    
+                    new Student("Kyrylo", "Lipovok"),    
                     new Student("Eduard", "Mikhrin"),
                     new Student("Vladyslav", "Zhukov"),
                     new Student("Kateryna","Tarasenko"),
@@ -88,9 +82,7 @@ public class StudentsProvider
                     new Student("Gorobiuk", "Liubomyr"),
                     new Student("Yehor", "Sabadash"),
                     new Student("Dariia", "Khomenko"),
-                    new Student("Andrii", "Humyniuk")
->>>>>>> 5f15b09ef27583a3822587bdc4dd3663d1c56f1b
-
+                    new Student("Andrii", "Humyniuk"),
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-34"), new[]
