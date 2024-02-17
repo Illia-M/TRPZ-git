@@ -59,7 +59,7 @@ public class StudentsProvider
                     {
                     new Student("Anastasiia", "Babenko"),
                     new Student("Varvara", "Kalenichenko"),
-                    new Student("Kyrylo", "Lipovok"),    
+                    new Student("Kyrylo", "Lipovok"),
                     new Student("Eduard", "Mikhrin"),
                     new Student("Vladyslav", "Zhukov"),
                     new Student("Kateryna","Tarasenko"),
