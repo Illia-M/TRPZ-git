@@ -8,9 +8,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Setup .NET
@@ -20,7 +18,9 @@ jobs:
         include-prerelease: true
     - name: Restore dependencies
       run: dotnet restore GitPractice.sln
+    - name: Format check
+      run: dotnet format --verify-no-changes --verbosity diagnostic
     - name: Build
       run: dotnet build GitPractice.sln --no-restore
-    - name: Test
+    - name: Unit Tests
       run: dotnet test --no-build --verbosity normal

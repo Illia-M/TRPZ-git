@@ -2,7 +2,7 @@
 
 public class StudentsRegistry
 {
-    private IReadOnlyDictionary<GroupNumber, ImmutableList<Student>> _students;
+    private readonly IReadOnlyDictionary<GroupNumber, ImmutableList<Student>> _students;
 
     public StudentsRegistry(IReadOnlyDictionary<GroupNumber, ImmutableList<Student>> students)
     {
