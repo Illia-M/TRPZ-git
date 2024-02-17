@@ -59,7 +59,7 @@ public class StudentsProvider
                     {
                     new Student("Anastasiia", "Babenko"),
                     new Student("Varvara", "Kalenichenko"),
-                    new Student("Lipovok", "Kyrylo"),
+                    new Student("Lipovok", "Kyrylo"),    
                     new Student("Eduard", "Mikhrin"),
                     new Student("Vladyslav", "Zhukov"),
                     new Student("Kateryna","Tarasenko"),
@@ -79,10 +79,10 @@ public class StudentsProvider
                     new Student("Nazar", "Putilovskyi"),
                     new Student("Tymofii", "Stepanchuk"),
                     new Student("Maria", "Yakymchuk"),
-
+                    new Student("Gorobiuk", "Liubomyr"),
                     new Student("Yehor", "Sabadash"),
                     new Student("Dariia", "Khomenko"),
-                    new Student("Andrii", "Humyniuk"),
+                    new Student("Andrii", "Humyniuk")
 
                     }.ToImmutableList()
                 },
