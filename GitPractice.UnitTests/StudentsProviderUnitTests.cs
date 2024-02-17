@@ -1,54 +1,57 @@
-﻿namespace GitPractice.UnitTests;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+namespace GitPractice.UnitTests;
+
+[TestClass]
 public class StudentsProviderUnitTests
 {
-    [Fact]
+    [TestMethod]
     public void StudentsGroupNotEmpty()
     {
         var studentsProvider = new StudentsProvider();
 
-        Assert.True(studentsProvider.Students.All(x => x.Value.Count > 0));
+        Assert.IsTrue(studentsProvider.Students.All(x => x.Value.Count > 0));
     }
 
-    [Fact]
+    [TestMethod]
     public void StudentsGroupsAllDifferentNumbers()
     {
         var studentsProvider = new StudentsProvider();
         var groupNumbers = studentsProvider.Students.Select(x => x.Key.Value).ToArray();
-        var groupsDistinctCount = groupNumbers.Distinct().ToArray();
+        var groupsDistinct = groupNumbers.Distinct().ToArray();
 
-        Assert.Equal(groupNumbers, groupsDistinctCount);
+        Assert.IsFalse(groupNumbers.Except(groupsDistinct).Any());
     }
 
-    [Fact]
+    [TestMethod]
     public void StudentsGroupNotContainsDefaultStudentAdditionalToRealStudents()
     {
         var defaultStudent = new Student("FirstName", "LastName");
         var studentsProvider = new StudentsProvider();
 
-        Assert.True(studentsProvider.Students.All(x => x.Value.Count == 1 || !x.Value.Contains(defaultStudent)));
+        Assert.IsTrue(studentsProvider.Students.All(x => x.Value.Count == 1 || !x.Value.Contains(defaultStudent)));
     }
 
-    [Fact]
+    [TestMethod]
     public void AllStudentsUniq()
     {
         var defaultStudent = new Student("FirstName", "LastName");
         var studentsProvider = new StudentsProvider();
         var studentsRegistry = new StudentsRegistry(studentsProvider.Students);
 
-        Assert.Distinct(studentsRegistry.GetAll().Where(s => s != defaultStudent));
+        Assert.AreEqual(studentsRegistry.GetAll().Count, studentsRegistry.GetAll().Where(s => s != defaultStudent).Count());
     }
 
-    [Fact]
+    [TestMethod]
     public void NoDuplicatesWithFirstNameSameAsLastName()
     {
         var studentsProvider = new StudentsProvider();
         var studentsRegistry = new StudentsRegistry(studentsProvider.Students);
         var allStudents = studentsRegistry.GetAll();
 
-        foreach (var s in allStudents)
+        foreach (var student in allStudents)
         {
-            Assert.DoesNotContain(allStudents, x => x.LastName == s.FirstName && x.FirstName == s.LastName);
+            Assert.IsFalse(allStudents.Any(x => x.LastName == student.FirstName && x.FirstName == student.LastName));
         }
     }
 }

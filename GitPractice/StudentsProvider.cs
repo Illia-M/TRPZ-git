@@ -1,4 +1,4 @@
-using System.Collections.Immutable;
+﻿using System.Collections.Immutable;
 
 public class StudentsProvider
 {
@@ -20,7 +20,7 @@ public class StudentsProvider
                     new Student("Anastasia", "Savenko"),
                     new Student("Vladyslav", "Driuk"),
                     new Student("Nikita","Uzhakov"),
-                    new Student("Sofia", "Mykhailova"),                   
+                    new Student("Sofia", "Mykhailova"),
                     new Student("Violetta","Rebrova"),
                     new Student("Yaroslav","Shafinsky"),
                     new Student("Anastasia","Danskaya"),
