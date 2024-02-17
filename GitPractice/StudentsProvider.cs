@@ -78,6 +78,7 @@ public class StudentsProvider
                     new Student("Ihor", "Shramko"),
                     new Student("Nazar", "Putilovskyi"),
                     new Student("Tymofii", "Stepanchuk"),
+                    new Student("Sofia", "Tanchuk"),
                     new Student("Maria", "Yakymchuk"),
                     new Student("Gorobiuk", "Liubomyr"),
                     new Student("Yehor", "Sabadash"),
