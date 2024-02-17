@@ -38,9 +38,5 @@
 
         return true;
     }
-    public Student()
-    {
-        FirstName = "Марія";
-        LastName = "Аралова";
-    }
+   
 }
