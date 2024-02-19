@@ -117,9 +117,8 @@ public class StudentsProvider
                     new Student("Bohdan","Kovalenko"),
                     new Student("Yaroslav", "Sagun"),
                     new Student("Vlad", "Bakunets"),
-                    new Student("Anna", "Tverdokhlib")
-                    new Student("Volodymyr", "Karnaushko")
-
+                    new Student("Anna", "Tverdokhlib"),
+                    new Student("Volodymyr", "Karnaushko"),
                     }.ToImmutableList()
                 },
             }
