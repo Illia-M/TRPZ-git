@@ -59,6 +59,7 @@ public class StudentsProvider
                     new Student("Valeriia", "Temko"),
                     new Student("Oleksandra", "Lemaeva"),
                     new Student("Karolina", "Rudykh"),
+                    new Student("Nazar", "Kyrychenko"),
                     new Student("Maria","Aralova"),
                     }.ToImmutableList()
                 },
