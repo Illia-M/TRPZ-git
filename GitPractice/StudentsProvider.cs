@@ -59,7 +59,11 @@ public class StudentsProvider
                     new Student("Valeriia", "Temko"),
                     new Student("Oleksandra", "Lemaeva"),
                     new Student("Karolina", "Rudykh"),
+<<<<<<< HEAD
                     new Student("Nazar", "Kyrychenko"),
+=======
+                    new Student("Maria","Aralova"),
+>>>>>>> stream/IC-3x
                     }.ToImmutableList()
                 },
                 { new GroupNumber("IC-33"), new[]
