@@ -126,6 +126,7 @@ public class StudentsProvider
                     new Student("Vlad", "Bakunets"),
                     new Student("Anna", "Tverdokhlib"),
                     new Student("Volodymyr", "Karnaushko"),
+                    new Student("Tanya", "Chervinska")
                     }.ToImmutableList()
                 },
             }
