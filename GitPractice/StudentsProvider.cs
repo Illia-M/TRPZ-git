@@ -108,6 +108,7 @@ public class StudentsProvider
                     new Student("Vlad", "Pohorilets"),
                     new Student("Liudmyla", "Perekhrest"),
                     new Student("Mykyta","Pedko"),
+                    new Student("Ihor","Kolosov"),
                     new Student("Kostiantyn", "Tkachov"),
                     new Student("Mariia", "Zozulia"),
                     new Student("Daryna","Shnaider"),
