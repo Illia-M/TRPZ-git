@@ -41,7 +41,7 @@ public class StudentsProvider
                 },
                 { new GroupNumber("IC-32"), new[]
                     {
-                    new Student("Dmytro", "Shlikhanov"),
+                    new Student("Ivan", "Ivanov"),
                     new Student("Olexandr", "Zhovmir"),
                     new Student("Yuriy", "Cherepnya"),
                     new Student("Oleksandr", "Rudenko"),
