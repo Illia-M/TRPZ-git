@@ -133,6 +133,6 @@ public class StudentsProvider
             }
         .ToImmutableDictionary();
     }
-
-    public IReadOnlyDictionary<GroupNumber, ImmutableList<Student>> Students => _students;
+    
+public IReadOnlyDictionary<GroupNumber, ImmutableList<Student>> Students => _students;
 }
